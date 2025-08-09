@@ -42,12 +42,12 @@ This means, on average, the model's prediction of a customer's 1-5 satisfaction 
     <td align="center"><b>Feature Importance (SHAP)</b></td>
   </tr>
   <tr>
-    <td><img src="URL_TO_YOUR_RESPONSE_TIME_CHART.png" alt="Box plot showing that lower CSAT scores are linked to higher response times." width="100%"></td>
-    <td><img src="URL_TO_YOUR_SHAP_PLOT.png" alt="SHAP summary plot showing response_time_minutes as the most important feature." width="100%"></td>
+    <td><img src="[RESPONSE TIME CHART](https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/Response%20Time%20vs.%20CSAT%20Score.png)" alt="Box plot showing that lower CSAT scores are linked to higher response times." width="100%"></td>
+    <td><img src="[SHAP PLOT](https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/shap_chart.png)" alt="SHAP summary plot showing response_time_minutes as the most important feature." width="100%"></td>
   </tr>
  </table>
 
-*Note: You would replace the placeholder URLs with actual URLs to your chart images after uploading them to your repository.*
+
 
 ---
 ## Tech Stack 💻
@@ -62,7 +62,7 @@ This means, on average, the model's prediction of a customer's 1-5 satisfaction 
 ## How to Run This Project 🏃‍♂️
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-
     ```
 2.  **Install dependencies:**
     It's recommended to create a virtual environment first. All required libraries are listed at the top of the notebook and can be installed via pip.
