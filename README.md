@@ -42,8 +42,8 @@ This means, on average, the model's prediction of a customer's 1-5 satisfaction 
     <td align="center"><b>Feature Importance (SHAP)</b></td>
   </tr>
   <tr>
-    <td><img src="[RESPONSE TIME CHART](https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/Response%20Time%20vs.%20CSAT%20Score.png)" alt="Box plot showing that lower CSAT scores are linked to higher response times." width="100%"></td>
-    <td><img src="[SHAP PLOT](https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/shap_chart.png)" alt="SHAP summary plot showing response_time_minutes as the most important feature." width="100%"></td>
+    <td><img src="https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/Response%20Time%20vs.%20CSAT%20Score.png" alt="Box plot showing that lower CSAT scores are linked to higher response times." width="100%"></td>
+    <td><img src="https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/shap_chart.png" alt="SHAP summary plot showing response_time_minutes as the most important feature." width="100%"></td>
   </tr>
  </table>
 
