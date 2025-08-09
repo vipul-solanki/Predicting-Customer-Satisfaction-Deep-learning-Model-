@@ -36,16 +36,9 @@ This means, on average, the model's prediction of a customer's 1-5 satisfaction 
 
 ---
 ## Visual Highlights
- <table>
-  <tr>
-    <td align="center"><b>Response Time is a Key Driver</b></td>
-    <td align="center"><b>Feature Importance (SHAP)</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/Response%20Time%20vs.%20CSAT%20Score.png" alt="Box plot showing that lower CSAT scores are linked to higher response times." width="100%"></td>
-    <td><img src="https://github.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/blob/main/shap_chart.png" alt="SHAP summary plot showing response_time_minutes as the most important feature." width="100%"></td>
-  </tr>
- </table>
+| Response Time is a Key Driver | Feature Importance (SHAP) |
+| :---: |:---:|
+| <img src="https://raw.githubusercontent.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/main/Response%20Time%20vs.%20CSAT%20Score.png" alt="Box plot showing that lower CSAT scores are linked to higher response times." width="100%"> | <img src="https://raw.githubusercontent.com/vipul-solanki/Predicting-Customer-Satisfaction-Deep-learning-Model-/main/shap_chart.png" alt="SHAP summary plot showing response_time_minutes as the most important feature." width="100%"> |
 
 
 
