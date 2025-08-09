@@ -13,7 +13,7 @@ The goal is to turn customer service from a reactive "damage control" unit into 
 
 ---
 ## Key Features ✨
-* **Deep Exploratory Data Analysis (EDA):** A full investigation into the data with over 15 visualizations to uncover hidden patterns and tell a story.
+* **Deep Exploratory Data Analysis (EDA):** A full investigation into the data with over 10+ visualizations to uncover hidden patterns and tell a story.
 * **Multi-Input Neural Network:** A special two-branch neural network designed to simultaneously understand different types of data:
     * An **LSTM branch** to analyze the sentiment and context of customer's text comments.
     * A **Dense branch** to learn from tabular data like issue category, agent tenure, and item price.
